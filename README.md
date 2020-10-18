@@ -1,6 +1,17 @@
 CKEditor 5 classic editor build
 ========================================
 
+## this version customized for useing quickly
+
+- include some extra package
+- SimpleUploadAdapter
+- Base64UploadAdapter
+- ExportPdf
+- ExportWord
+
+
+
+
 [![npm version](https://badge.fury.io/js/%40ckeditor%2Fckeditor5-build-classic.svg)](https://www.npmjs.com/package/@ckeditor/ckeditor5-build-classic)
 [![Dependency Status](https://david-dm.org/ckeditor/ckeditor5-build-classic/status.svg)](https://david-dm.org/ckeditor/ckeditor5-build-classic)
 [![devDependency Status](https://david-dm.org/ckeditor/ckeditor5-build-classic/dev-status.svg)](https://david-dm.org/ckeditor/ckeditor5-build-classic?type=dev)
