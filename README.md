@@ -1,9 +1,9 @@
 CKEditor 5 classic editor build
 ========================================
 
-## this version customized for useing quickly
+## This version customized for useing quickly
 
-- include some extra package
+### include some extra package
 - SimpleUploadAdapter
 - Base64UploadAdapter
 - ExportPdf
